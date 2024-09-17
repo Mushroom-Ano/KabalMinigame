@@ -5,6 +5,8 @@
 
 Welcome to **KabalMinigame**, a fun and simple Unity project where you face off against the mischievous monster **Kabal** in a series of minigames. This game has been in development for several months, focusing on lighthearted gameplay and quick, casual challenges.
 
+This game is in **very** early development. Expect **alot** of bugs. This is currently here to demonstrate the progress i have made. 
+
 ## 🎮 About the Game
 
 In **KabalMinigame**, you interact with a playful and mischievous creature named **Kabal**, who challenges you to various fun and engaging minigames. The game is designed to be quick and simple, making it ideal for casual gamers or anyone looking for a quick, fun gaming break!

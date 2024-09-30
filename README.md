@@ -22,7 +22,7 @@ You can access **Kabal's Minigames** directly through your browser via **GitHub 
 
 ## 🛠 Development
 
-This project is built using **Unity** with the WebGL platform for easy browser play. The game has gone through various iterations to enhance gameplay and user experience.
+This project is built using **Unity** in C# with the WebGL platform for easy browser play. The game has gone through various iterations to enhance gameplay and user experience.
 
 ### Features
 - Playful interactions with the character **Kabal**

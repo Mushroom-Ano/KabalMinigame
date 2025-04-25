@@ -7,6 +7,10 @@ Welcome to **Kabal's Minigames**, a fun and simple Unity project where you face 
 
 This game is in **very** early development. Expect **a lot** of bugs. This is currently here to demonstrate the progress i have made. 
 
+## UPDATE
+
+Implemented a local-llm feature, setup a local llm on your localhost, select 'Start Chatting' and enjoy!!
+
 ## 🎮 About the Game
 
 In **Kabal's Minigames**, you interact with a playful and mischievous creature named **Kabal**, who challenges you to various fun and engaging minigames. The game is designed to be quick and simple, making it ideal for casual gamers or anyone looking for a quick, fun gaming break!

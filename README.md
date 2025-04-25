@@ -11,6 +11,9 @@ This game is in **very** early development. Expect **a lot** of bugs. This is cu
 
 Implemented a Local-LLM, to use this please download the release, setup a local llm on your localhost, select 'Start Chatting' and enjoy!!
 
+![LLM Integration](https://github.com/user-attachments/assets/60d26e3c-38c5-4123-8278-6eae790e0ae2)
+
+
 ## 🎮 About the Game
 
 In **Kabal's Minigames**, you interact with a playful and mischievous creature named **Kabal**, who challenges you to various fun and engaging minigames. The game is designed to be quick and simple, making it ideal for casual gamers or anyone looking for a quick, fun gaming break!

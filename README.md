@@ -7,9 +7,9 @@ Welcome to **Kabal's Minigames**, a fun and simple Unity project where you face 
 
 This game is in **very** early development. Expect **a lot** of bugs. This is currently here to demonstrate the progress i have made. 
 
-## UPDATE
+## 🛠 UPDATE
 
-Implemented a local-llm feature, setup a local llm on your localhost, select 'Start Chatting' and enjoy!!
+Implemented a Local-LLM, to use this please download the release, setup a local llm on your localhost, select 'Start Chatting' and enjoy!!
 
 ## 🎮 About the Game
 
